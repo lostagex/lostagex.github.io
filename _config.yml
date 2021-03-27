@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "徐昇 / Site Title"
+title                    : "徐昇 / 个人主页"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -64,11 +64,11 @@ analytics:
 
 
 # Site Author
-author:
-  name             : "Your Sidebar Name"
+author
+  name             : "南京林业大学"
   avatar           : "sheng.jpg"
   bio              : "工学博士, 副教授, 硕导"
-  location         : "南京林业大学"
+  location         : "南京,中国"
   employer         :
   googlescholar    : "https://xueshu.lanfanshu.cn/citations?hl=zh-CN&user=I4WsJDsAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
