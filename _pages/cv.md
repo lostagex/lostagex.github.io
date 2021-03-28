@@ -24,14 +24,14 @@ Work experience
 * 2018-2019: 南京林业大学信息科学技术学院, 讲师
 * 2012-2014: 南京文采科技有限责任公司, 模式识别算法工程师
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
