@@ -1,7 +1,7 @@
 ---
 title: "Plane Segmentation Based on the Optimal-vector-field in LiDAR Point Clouds"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/detail/2020-05-18-TPAMI
 #excerpt: 'Description'
 date: 2020-05-18
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence'
