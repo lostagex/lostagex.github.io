@@ -11,21 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 本科 南京林业大学, 中国, 2006-2010
+* 硕士 南京林业大学, 中国, 2010-2012 (提前一年毕业),导师 业宁 教授
+* 博士 卡尔加里大学, 加拿大, 2015-2018, 导师 王瑞胜 副教授 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2012-2014: 南京文采科技有限责任公司, 模式识别算法工程师
   
 Skills
 ======
