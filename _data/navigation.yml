@@ -3,10 +3,10 @@ main:
   - title: "论文"
     url: /publications/
         
-  - title: "项目情况" #知识产权
+  - title: "项目情况" #项目
     url: /talks/    
 
-  - title: "Teaching" #项目和获奖
+  - title: "荣誉" #
     url: /teaching/    
     
   - title: "Portfolio" #学生

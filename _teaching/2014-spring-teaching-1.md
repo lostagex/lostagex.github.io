@@ -1,20 +1,28 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+title: "基于高速气流离散的叶中含梗及打叶参数检测剔除"
+collection: 知识产权
+type: "发明专利"
+permalink: /teaching/2013-03-05-FM
+venue: "申请号:CN201610069611.7"
+date: 2013-03-05
+excerpt: '徐昇, 欧阳光'
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+徐昇, 欧阳光. 基于高速气流离散的叶中含梗及打叶参数检测剔除, 2013.03.05, 申请号:CN201610069611.7
 
-Heading 1
-======
 
-Heading 2
-======
+基于三维卷积神经网络的点云树干分割，中国林业学术大会，优秀论文一等奖，中国林学会，2019.11
 
-Heading 3
-======
+Automatic extraction of street trees' nonphotosynthetic components from MLS data, 梁希青年论文奖，三等奖，2020.11.25
+
+蓝桥杯全国软件和信息技术专业江苏赛区C/C++程序设计二等奖，优秀指导老师，证书编号：021124016，邵千亮，2020.10.17
+
+
+国家软件设计师(中级), 江苏人事厅, 2009.08.20, 管理号:09115320712
+
+江苏省高层次创新创业人才引进计划"科技副总", 2019.07, 江苏省人才工作领导小组办公室,江苏省科学技术厅, 编号:FZ20190012
+
+'王珺瑶, 基于高分辨率遥感图像的车流量统计研究, 南京林业大学优秀本科毕业生论文, 南京林业大学, 2020.06.19'
+
+徐昇，工学博士，副教授，硕导。2018年毕业于加拿大卡尔加里大学（University of Calgary），随后入职南京林业大学信息科学技术学院。目前在国内外期刊会议上发表论文30余篇，包括SCI期刊16篇，EI期刊、会议3篇，国内核心期刊11篇，近五年一作或通讯在IEEE Trans. TPAMI, IEEE Trans. TIST, IEEE Trans. TGARS等知名期刊上发表SCI论文10余篇。曾获江苏省优秀硕士毕业论文、加拿大阿尔伯塔省创新基金（31500加币/年）、中国林业学术大会优秀论文一等奖和梁希论文三等奖。入选江苏省“双创计划”科技副总、南京林业大学“水杉英才”计划F类。正在或曾经主持江苏省自然科学基金（青年项目）、江苏省高校自然科学基金、中国博士后面上基金、南京林业大学标志性成果培育项目等。指导本科生获得江苏省大学生创新项目、校优秀本科毕业设计和江苏省“蓝桥杯”等竞赛奖项
