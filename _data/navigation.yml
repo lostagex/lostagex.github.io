@@ -3,7 +3,7 @@ main:
   - title: "论文"
     url: /publications/
 
-  - title: "Talks" #知识产权
+  - title: "知识产权" #知识产权
     url: /talks/    
 
   - title: "Teaching" #项目和获奖
