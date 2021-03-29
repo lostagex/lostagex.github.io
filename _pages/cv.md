@@ -30,19 +30,21 @@ redirect_from:
   {% endfor %}</ul>
   
   
+项目情况
+======
+ <ul>{% for post in site.talks %}
+ {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>]  
 
-项目
+
+知识产权
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>]
   
 
-知识产权
-======
- <ul>{% for post in site.talks %}
- {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>]
+
   
 
 授权情况
