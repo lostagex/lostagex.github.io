@@ -2,10 +2,10 @@
 title: "Co-publications"
 collection: publications
 permalink: /publication/2010-01-01-copublication
+excerpt: '合作的论文'
 date: 2010-01-01
 venue: '合作论文集'
 
-合作的论文 
 
 ---
 Higher-order conditional random fields-based 3D semantic labeling of airborne laser-scanning point clouds[J]. Remote Sensing, 2019, 11(10): 1248.
