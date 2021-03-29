@@ -37,7 +37,7 @@ redirect_from:
   {% endfor %}</ul>
 
 
-知识产权
+荣誉
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
