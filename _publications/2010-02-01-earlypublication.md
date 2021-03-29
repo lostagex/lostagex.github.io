@@ -2,9 +2,9 @@
 title: "Early publications"
 collection: publications
 permalink: /publication/2010-02-01-earlypublication
-excerpt: '硕士期间一作发表的期刊和会议'
+excerpt: '早期论文'
 date: 2010-02-01
-venue: '早期论文'
+venue: '硕士期间一作发表的期刊和会议'
 
 ---
 双目立体匹配算法的设计与研究[D].南京林业大学,2012.（2012届江苏省优秀硕士论文）

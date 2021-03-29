@@ -2,9 +2,9 @@
 title: "Co-publications"
 collection: publications
 permalink: /publication/2010-01-01-copublication
-excerpt: '作为合作作者发表的论文'
+excerpt: '合作论文'
 date: 2010-01-01
-venue: '合作论文'
+venue: '作为合作作者发表的论文'
 
 
 ---
