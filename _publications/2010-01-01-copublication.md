@@ -33,3 +33,29 @@ SOFT COMPUTING  Volume: ‏ 20   Issue: ‏ 11   Special Issue: ‏ SI   Pages: 
 A weighted one-class support vector machine
 By: Zhu, Fa; Yang, Jian; Gao, Cong; et al.
 NEUROCOMPUTING  Volume: ‏ 189   Pages: ‏ 1-10   Published: ‏ MAY 12 2016
+
+Relative density degree induced boundary detection for one-class SVM
+By: Zhu, Fa; Yang, Jian; Xu, Sheng; et al.
+SOFT COMPUTING  Volume: ‏ 20   Issue: ‏ 11   Special Issue: ‏ SI   Pages: ‏ 4473-4485   Published: ‏ NOV 2016
+
+Boundary detection and sample reduction for one-class Support Vector Machines
+By: Zhu, Fa; Ye, Ning; Yu, Wei; et al.
+NEUROCOMPUTING  Volume: ‏ 123   Special Issue: ‏ SI   Pages: ‏ 166-173   Published: ‏ JAN 10 2014
+
+地质图中地质层的精确分割方法[J].计算机科学,2013,40(01):277-281+297.
+
+基于卷积神经网络的木材缺陷识别[J].山东大学学报(工学版),2013,43(02):23-28.
+
+立体匹配中边界信息的强化算法[J].山东大学学报(工学版),2012,42(06):43-49.
+
+结肠癌基因表达谱的特征选取研究[J].山东大学学报(工学版),2012,42(02):23-29.
+
+边界检测快速SVDD算法[J].江苏科技大学学报(自然科学版),2012,26(02):159-162.
+
+针对图像区域连续化问题的立体匹配算法[J].南京师范大学学报(工程技术版),2011,11(04):47-52.
+
+基于分而治之策略的稀疏张量多层次数据挖掘[J].微电子学与计算机,2011,28(10):204-208.
+
+基于频繁子树挖掘的DNA重复序列识别方法[J].微电子学与计算机,2011,28(09):193-196+201.
+
+

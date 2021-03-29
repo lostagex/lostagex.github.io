@@ -2,14 +2,20 @@
 title: "Early publications"
 collection: publications
 permalink: /publication/2010-02-01-earlypublication
-excerpt: '早期发表的一作期刊和会议'
+excerpt: '早期发表的期刊和会议'
 date: 2010-02-01
 venue: '早期论文'
 
 ---
+徐昇. 双目立体匹配算法的设计与研究[D].南京林业大学,2012.（2012届江苏省优秀硕士论文）
 
+徐昇,业宁,朱发,徐姗姗,周溜溜.Hopfield网络在视差空间上的立体匹配求解[J].计算机研究与发展,2013,50(05):1021-1029.
 
+徐昇,云挺,业宁.基于视差图优化的立体匹配算法研究[J].计算机工程与设计,2012,33(02):658-664+717.
 
+徐昇,业宁,徐姗姗.径向基网络中样本属性的贡献因子研究[J].计算机科学与探索,2012,6(02):183-192.
+
+徐昇,云挺,业宁.最短路径模型下的双目立体匹配算法研究[J].计算机科学与探索,2011,5(04):374-384.
 
 Research on the Protein Secondary Prediction Using a Symmetric Binding Form of Organization
 By: Xu, Sheng; Xu, Shanshan; Ye, Ning
