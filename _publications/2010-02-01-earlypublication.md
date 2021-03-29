@@ -1,8 +1,8 @@
 ---
 title: "Early publications"
 collection: publications
-permalink: /publication/2021-03-29-others
-date: 2098-01-20
+permalink: /publication/2010-02-01-earlypublication
+date: 2010-02-01
 venue: '早期硕士期间一作论文'
 
 ---
