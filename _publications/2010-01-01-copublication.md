@@ -2,12 +2,14 @@
 title: "Co-publications"
 collection: publications
 permalink: /publication/2010-01-01-copublication
-excerpt: '合作论文'
+excerpt: '作为合作作者发表的论文'
 date: 2010-01-01
-venue: '作为合作作者的论文'
+venue: '合作论文'
 
 
 ---
+孙心雨,田佳榕,徐雁南,徐昇,李海东.基于地基激光雷达的道路生态景观评价:以黄海海滨国家森林公园为例[J].生态与农村环境学报,2020,36(11):1477-1484.
+
 Higher-Order Conditional Random Fields-Based 3D Semantic Labeling of Airborne Laser-Scanning Point Clouds
 By: Li, Yong; Chen, Dong; Du, Xiance; et al.
 REMOTE SENSING  Volume: ‏ 11   Issue: ‏ 10     Article Number: 1248   Published: ‏ MAY 2 2019
