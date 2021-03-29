@@ -3,20 +3,20 @@ main:
   - title: "论文"
     url: /publications/
 
-  #- title: "Talks"
-    #url: /talks/    
+  - title: "Talks" #知识产权
+    url: /talks/    
 
-  #-title: "Teaching"
-    #url: /teaching/    
+  - title: "Teaching" #项目和获奖
+    url: /teaching/    
     
-  #-title: "Portfolio"
-    #url: /portfolio/
+  - title: "Portfolio" #学生
+    url: /portfolio/
         
-  #-title: "Blog Posts"
-    #url: /year-archive/
+  - title: "Blog Posts" # 其他
+    url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  #-title: "Guide"
-    #url: /markdown/
+  - title: "Guide"
+    url: /markdown/
