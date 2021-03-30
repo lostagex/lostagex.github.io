@@ -12,7 +12,7 @@ main:
   - title: "Portfolio" #学生
     url: /portfolio/
         
-  - title: "Blog Posts" # 其他
+  - title: "学习资料" # 其他
     url: /year-archive/
     
   - title: "CV"
