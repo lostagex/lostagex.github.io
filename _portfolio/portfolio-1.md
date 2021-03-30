@@ -3,7 +3,7 @@ title: "韩文"
 `excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: 硕士生
 date: 2020-09-01
-
+venue: '硕士生'
 
 
 ---
