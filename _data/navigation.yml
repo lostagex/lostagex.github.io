@@ -12,7 +12,7 @@ main:
   - title: "荣誉" #
     url: /teaching/    
     
-  - title: "Portfolio" #学生
+  - title: "学生情况" #学生
     url: /portfolio/
         
   - title: "学习资料" # 其他
