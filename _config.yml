@@ -186,6 +186,9 @@ collections:
     permalink: /:collection/:path/
   talks:
     output: true
+    permalink: /:collection/:path/ 
+  talks2:
+    output: true
     permalink: /:collection/:path/
 
 
@@ -244,7 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _talks2
+  - scope:
+      path: ""
+      type: talks2
+    values:
+      layout: talk2
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
