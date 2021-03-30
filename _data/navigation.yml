@@ -5,6 +5,9 @@ main:
         
   - title: "项目情况" #项目
     url: /talks/    
+    
+  - title: "知识产权" #知识产权
+    url: /talks2/    
 
   - title: "荣誉" #
     url: /teaching/    
