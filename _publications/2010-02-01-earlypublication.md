@@ -1,8 +1,8 @@
 ---
-title: "Early publications"
+title: "Early publications (7篇)"
 collection: publications
 permalink: /publication/2010-02-01-earlypublication
-excerpt: '早期论文'
+excerpt: '早期论文, EI 期刊 1篇, EI 会议 2 篇, CSCD 4 篇'
 date: 2010-02-01
 venue: '硕士期间一作发表的期刊和会议'
 
