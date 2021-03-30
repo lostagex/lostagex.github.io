@@ -37,7 +37,7 @@ redirect_from:
   {% endfor %}</ul>
   
   
-专利授权
+知识产权
 ======
  <ul>{% for post in site.talks2 %}
  {% include archive-single-talk2-cv.html %}
