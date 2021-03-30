@@ -84,7 +84,7 @@ author:
   avatar           : "sheng.jpg"
   bio              : "工学博士, 副教授, 硕导"
   location         : "南京林业大学, 南京" 
-  employer         :
+  employer         : "https://it.njfu.edu.cn/szdw/20190713/i32555.html"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://xueshu.lanfanshu.cn/citations?hl=zh-CN&user=I4WsJDsAAAAJ&view_op=list_works&sortby=pubdate"
   email            :
@@ -93,7 +93,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://it.njfu.edu.cn/szdw/20190713/i32555.html"
+  flickr           : 
   facebook         :  
   foursquare       :
   github           : #"academicpages"
