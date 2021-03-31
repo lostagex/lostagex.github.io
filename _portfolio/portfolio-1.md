@@ -13,3 +13,13 @@ venue: '硕士生'
 
 <p>Wen Han received the B.S. degree in software engineering in 2018 from Yangtze University, Jing Zhou, China. Now, he is studying for the master degree at the College of Information Technology in Nanjing Forestry University. His research interests include computer vision and software development.</p>
  </div>
+
+
+
+<table border="0">
+<tr>
+  <td> <img src='/images/wen.jpg' height="300" width="208">  </td>
+  <td>Wen Han received the B.S. degree in software engineering in 2018 from Yangtze University, Jing Zhou, China. Now, he is studying for the master degree at the College of Information Technology in Nanjing Forestry University. His research interests include computer vision and software development.</p>
+</td>
+  </tr>
+</table>
