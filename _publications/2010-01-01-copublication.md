@@ -8,9 +8,9 @@ venue: '作为合作作者发表的论文'
 
 
 ---
-1.S. Xia, S. Nie, P. Wang, D. Chen, S. Xu and C. Wang, "A Gap-Based Method for LiDAR Point Cloud Division," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3063290.
+1. S. Xia, S. Nie, P. Wang, D. Chen, S. Xu and C. Wang, "A Gap-Based Method for LiDAR Point Cloud Division," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3063290.
 
-1.S. Xia, S. Xu, R. Wang, J. Li and G. Wang, "Building Instance Mapping From ALS Point Clouds Aided by Polygonal Maps," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3087159.
+1. S. Xia, S. Xu, R. Wang, J. Li and G. Wang, "Building Instance Mapping From ALS Point Clouds Aided by Polygonal Maps," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3087159.
 
 1. 基于地基激光雷达的道路生态景观评价:以黄海海滨国家森林公园为例[J].生态与农村环境学报,2020,36(11):1477-1484.
 
