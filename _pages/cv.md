@@ -1,4 +1,3 @@
-<!-- 简历内容 -->
 ---
 layout: archive
 title: "Curriculum Vitae"
@@ -7,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+<!-- 简历内容 -->
 {% include base_path %}
 
 教育经历
