@@ -36,7 +36,7 @@ live2d_settings['canSwitchTextures']    = true;         // 显示 材质切换  
 live2d_settings['canSwitchHitokoto']    = true;         // 显示 一言切换    按钮，可选 true(真), false(假)
 live2d_settings['canTakeScreenshot']    = true;         // 显示 看板娘截图  按钮，可选 true(真), false(假)
 live2d_settings['canTurnToHomePage']    = true;         // 显示 返回首页    按钮，可选 true(真), false(假)
-live2d_settings['canTurnToAboutPage']   = true;         // 显示 跳转关于页  按钮，可选 true(真), false(假)
+live2d_settings['canTurnToAboutPage']   = false;         // 显示 跳转关于页  按钮，可选 true(真), false(假)
 
 // 模型切换模式
 live2d_settings['modelStorage']         = true;         // 记录 ID (刷新后恢复)，可选 true(真), false(假)
