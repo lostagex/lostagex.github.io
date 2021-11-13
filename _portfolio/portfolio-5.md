@@ -10,12 +10,12 @@ venue: '硕士生'
 <table border="0">
 <tr>
   <td> <img src='/images/leicao.jpg' height="500" width="408">  </td>
-  <td>Lei Cao received his bachelor degree in Communication Engineering in 2021 from Information College Huaibei Normal University, China. Now, He is studying for his master degree at the College of Information Science and Technology from Nanjing Forestry University. His research interests include Computer Vision and Image Processing.</td>
+  <td>Lei Cao received his bachelor degree in Communication Engineering in 2021 from Information College Huaibei Normal University, China. Now, He is studying for his master degree at the College of Information Science and Technology from Nanjing Forestry University. His research interests include Computer Vision and Image Processing.
 </td>
 </tr>
 
 <tr>
-<td colspan="2">硕士生期间工作
+<td colspan="2">--------硕士生期间工作--------
 </td>
 </tr>
 
@@ -36,7 +36,7 @@ venue: '硕士生'
 </tr>
 
 <tr>
-<td colspan="2">荣誉：
+<td colspan="2">其他：
 <ol class="level_1">
 <li>  </li>
 </ol>

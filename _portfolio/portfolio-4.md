@@ -10,12 +10,12 @@ venue: '硕士生'
 <table border="0">
 <tr>
   <td> <img src='/images/xinli.jpg' height="500" width="408">  </td>
-  <td>Xin Li graduated from Sanjiang University with a bachelor’s degree in Software Engineering in 2021. During her undergraduate years, she was awarded 'First Class Sholarship' for three times. Besides, she was elected as 'Outstanding Student'.  Now she is pursuing for a master’s degree in the College of Information Science and Technology, Nanjing Forestry University. Her research interests include Computer Vision and 3D Modeling.</td>
+  <td>Xin Li graduated from Sanjiang University with a bachelor’s degree in Software Engineering in 2021. During her undergraduate years, she was awarded 'First Class Sholarship' for three times. Besides, she was elected as 'Outstanding Student'.  Now she is pursuing for a master’s degree in the College of Information Science and Technology, Nanjing Forestry University. Her research interests include Computer Vision and 3D Modeling.
 </td>
 </tr>
 
 <tr>
-<td colspan="2">硕士生期间工作
+<td colspan="2">--------硕士生期间工作--------
 </td>
 </tr>
 
@@ -36,7 +36,7 @@ venue: '硕士生'
 </tr>
 
 <tr>
-<td colspan="2">荣誉：
+<td colspan="2">其他：
 <ol class="level_1">
 <li>  </li>
 </ol>

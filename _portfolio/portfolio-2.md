@@ -10,12 +10,12 @@ venue: '硕士生'
 <table border="0">
 <tr>
   <td> <img src='/images/jun.jpg' height="500" width="408">  </td>
-  <td>Junjie Zhu achieved his B.S. degree in computer science and software engineering in 2019 from Huaiyin Institute of Technology, Huai An, China. Now, he is studying for the master degree at the College of Information Technology in Nanjing Forestry University. His research interest is Computer Vision.</td>
+  <td>Junjie Zhu achieved his B.S. degree in computer science and software engineering in 2019 from Huaiyin Institute of Technology, Huai An, China. Now, he is studying for the master degree at the College of Information Technology in Nanjing Forestry University. His research interest is Computer Vision.
 </td>
 </tr>
 
 <tr>
-<td colspan="2">硕士生期间工作
+<td colspan="2">--------硕士生期间工作--------
 </td>
 </tr>
 
@@ -36,7 +36,7 @@ venue: '硕士生'
 </tr>
 
 <tr>
-<td colspan="2">荣誉：
+<td colspan="2">其他：
 <ol class="level_1">
 <li>  </li>
 </ol>
