@@ -16,7 +16,7 @@ venue: '硕士生'
 </tr>
 
 <tr>
-<td colspan="2" align=“center”>--------硕士生期间工作--------
+<td colspan="2" align="center">--------硕士生期间工作--------
 </td>
 </tr>
 
