@@ -29,7 +29,7 @@ venue: '硕士生'
 </tr>
 
 <tr>
-<td colspan="2">专利授权：
+<td colspan="2">软件授权：
 <ol class="level_1">
 <li>  </li>
 </ol>
