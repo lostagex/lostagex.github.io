@@ -20,7 +20,7 @@ redirect_from:
 1. 计算思维（本科生, 第五学期）
 1. 计算机视觉（研究生, 第二学期）
 1. 科技英语 （本科生, 第五学期）
-1. Computer Vision（留学生）
+1. Computer Vision（International Students）
 
 联系方式
 ------
