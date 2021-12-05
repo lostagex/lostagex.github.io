@@ -5,8 +5,6 @@ permalink: /sitemap/
 author_profile: true
 ---
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5m78af7xipq&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=33" async="async"></script>
-
 
 {% include base_path %}
 
