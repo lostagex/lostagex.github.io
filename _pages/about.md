@@ -21,8 +21,7 @@ redirect_from:
 3. 要求-
       * 仰望星空, 脚踏实地
       * 以梦为马, 不负韶华
-4. P.S. 本科生大创<> https://lostagex.github.io/teaching/2019-05-08-NJFU_JS
-5. <a href="https://lostagex.github.io/teaching/2019-05-08-NJFU_JS" >本科生大创请点击</a>
+4. P.S. <a href="https://lostagex.github.io/teaching/2019-05-08-NJFU_JS">本科生大创请点击</a>
 
 
 主讲课程
