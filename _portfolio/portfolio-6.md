@@ -10,8 +10,7 @@ venue: '硕士生'
 <table border="0">
 <tr>
   <td> <img src='/images/wanjie.jpg' height="500" width="408">  </td>
- <td>.
-</td>
+ <td>WanJie Liu graduated from Henan Institute of Science and Technology with a bachelor’s degree in Computer Science and Technology in 2021. During his undergraduate years, he was selected as a "Merit Student" and won the third-class scholarship. Now, he is studying for his master degree at the College of Information Science and Technology from Nanjing Forestry University. His research interests include 3D Object Detection and Point Cloud Processing.</td>
 
 </tr>
 
