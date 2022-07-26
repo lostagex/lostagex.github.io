@@ -1,9 +1,9 @@
 ---
-title: "Undergraduate Publications"
+title: "Undergraduate Students' Publications"
 collection: publications
 permalink: /publication/2022-01-01-undergraduate
 excerpt: '指导论文'
-date: 2020-01-01
+date: 2019-01-01
 venue: '指导本科生发表论文'
 
 
