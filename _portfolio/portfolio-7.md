@@ -10,7 +10,7 @@ venue: '硕士生'
 <table border="0">
 <tr>
   <td> <img src='/images/zhaowei.jpg' height="500" width="408">  </td>
- <td>.
+ <td>ZhaoWei Shao graduated from Nanjing Xiaozhuang University majoring in Software engineering in 2022. Now he is studying artificial Intelligence in Nanjing Forestry University for a master's degree. His research interests include point cloud and image fusion technology.
 </td>
 
 </tr>
