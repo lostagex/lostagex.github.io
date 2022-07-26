@@ -22,7 +22,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Li Xin, Xu Sheng. Individual Tree Modeling from 3D LiDAR Point Clouds, UnderPrepared.</li>
 </ol>
 </td>
 </tr>
@@ -30,7 +30,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">软件授权：
 <ol class="level_1">
-<li>  </li>
+<li> 李欣, 徐昇. 一种遥感图像处理用显示装置, 公告号: CN216345257U, 2022.04.19. </li>
 </ol>
 </td>
 </tr>

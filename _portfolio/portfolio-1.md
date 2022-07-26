@@ -21,7 +21,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li> Han Wen, Sheng Xu. A Method of the Coverage Ratio of Street Trees Based on Deep Learning, International Journal of Interactive Multimedia and Artificial Intelligence, 2021, SCI IF=3.13, 3 区, Accept </li>
+<li> Han Wen, Cao Lei, Sheng Xu(*). A Method of the Coverage Ratio of Street Trees Based on Deep Learning, International Journal of Interactive Multimedia and Artificial Intelligence, DOI: 10.9781/ijimai.2022.07.003, 2022, SCI 3 区 </li>
 </ol>
 </td>
 </tr>

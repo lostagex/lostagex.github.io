@@ -12,8 +12,6 @@ venue: '作为合作作者发表的论文'
 
 1. S. Xia, S. Xu, R. Wang, J. Li and G. Wang, "Building Instance Mapping From ALS Point Clouds Aided by Polygonal Maps," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3087159.
 
-1. 基于地基激光雷达的道路生态景观评价:以黄海海滨国家森林公园为例[J].生态与农村环境学报,2020,36(11):1477-1484.
-
 1. Higher-Order Conditional Random Fields-Based 3D Semantic Labeling of Airborne Laser-Scanning Point Clouds[J]
 REMOTE SENSING  Volume: ‏ 11   Issue: ‏ 10     Article Number: 1248   Published: ‏ MAY 2 2019
 
