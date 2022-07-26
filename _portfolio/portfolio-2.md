@@ -1,17 +1,17 @@
 ---
-title: "朱俊杰"
-excerpt: "2020.09入学； 专业方向：电子信息"
+title: "沈子瑞"
+excerpt: "2022.09入学； 专业方向：软件工程"
 collection: 硕士生
-date: 2020-09-01
+date: 2022-09-01
 venue: '硕士生'
 
 
 ---
 <table border="0">
 <tr>
-  <td> <img src='/images/jun.jpg' height="500" width="408">  </td>
-  <td>Junjie Zhu achieved his B.S. degree in computer science and software engineering in 2019 from Huaiyin Institute of Technology, Huai An, China. Now, he is studying for the master degree at the College of Information Technology in Nanjing Forestry University. His research interest is Computer Vision.
-</td>
+  <td> <img src='/images/zirui.jpg' height="500" width="408">  </td>
+ <td>Zirui Shen received his B.S.degree in software engineering in 2021 from Shanghai Polytechnic University, Shanghai, China. Now, he is studying for the master degree at the College of Information Technology in Nanjing Forestry University. His research interests include 3D Object Detection and data processing.</td>
+
 </tr>
 
 <tr>
