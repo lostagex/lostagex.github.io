@@ -39,7 +39,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li>  </li>
+<li>  2021级，学硕，软件工程，一等学业奖学金，金额：12000  </li>
 </ol>
 </td>
 </tr>

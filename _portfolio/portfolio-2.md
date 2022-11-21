@@ -1,6 +1,6 @@
 ---
 title: "沈子瑞"
-excerpt: "2022.09入学； 专业方向：软件工程"
+excerpt: "2022.09入学； 专业方向：软件工程; 邮箱:szr@njfu.edu.cn"
 collection: 硕士生
 date: 2022-09-01
 venue: '硕士生'

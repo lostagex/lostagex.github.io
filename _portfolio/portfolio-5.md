@@ -23,7 +23,6 @@ venue: '硕士生'
 <td colspan="2">论文发表：
 <ol class="level_1">
 <li>曹磊,王珺瑶,朱俊杰,徐昇. 基于深度学习技术的高分辨率遥感图像的车流量统计,江苏大学学报(自然科学版), SCD&北大核心，录用 </li>
-<li>曹磊, 王寅凯, 王嘉怡. 一种基于GLYOLO的森林火灾检测算法研究, UnderPrepared. </li>
 </ol>
 </td>
 </tr>
@@ -39,7 +38,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li>  </li>
+<li> 2021级，专硕，电子信息，二等学业奖学金，金额：8000 </li>
 </ol>
 </td>
 </tr>
