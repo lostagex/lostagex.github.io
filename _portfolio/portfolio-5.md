@@ -23,6 +23,7 @@ venue: '硕士生'
 <td colspan="2">论文发表：
 <ol class="level_1">
 <li>曹磊,王珺瑶,朱俊杰,徐昇. 基于深度学习技术的高分辨率遥感图像的车流量统计,江苏大学学报(自然科学版), SCD&北大核心，录用 </li>
+<li>Lei Cao, Zirui Shen, Sheng Xu. Efficient Forest Fire Detection Based on An Improved YOLO Model, Submitted</li>
 </ol>
 </td>
 </tr>
@@ -39,6 +40,8 @@ venue: '硕士生'
 <td colspan="2">其他：
 <ol class="level_1">
 <li> 2021级，专硕，电子信息，二等学业奖学金，金额：8000 </li>
+<li> GitHub: https://github.com/xiaoaleiBLUE </li>
+<li> CSDN: https://blog.csdn.net/m0_60890175?type=blog </li>
 </ol>
 </td>
 </tr>
