@@ -1,6 +1,6 @@
 ---
 title: "韩文"
-excerpt: "2020.09入学； 专业方向：电子信息"
+excerpt: "2020.09-2023.06； 专业方向：电子信息"
 collection: 硕士生
 date: 2020-09-01
 venue: '硕士生'
@@ -21,7 +21,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li> Han Wen, Cao Lei, Sheng Xu(*). A Method of the Coverage Ratio of Street Trees Based on Deep Learning, International Journal of Interactive Multimedia and Artificial Intelligence, DOI: 10.9781/ijimai.2022.07.003, 2022, SCI 3 区 </li>
+<li> Han Wen, Cao Lei, Sheng Xu(*). A Method of the Coverage Ratio of Street Trees Based on Deep Learning, International Journal of Interactive Multimedia and Artificial Intelligence, DOI: 10.9781/ijimai.2022.07.003, 2022. （SCI 2 区） </li>
 </ol>
 </td>
 </tr>
