@@ -39,6 +39,12 @@ redirect_from:
 1. Computer Vision（International Students）
 1. Machine Learning（International Students）
 
+其他内容
+======
+1. 南京林业大学2021年度考核--优秀
+1. 南京林业大学2023届毕业设计--优秀指导老师 
+
+
 联系方式
 ------
 邮箱：xusheng [AT] njfu.edu.cn
