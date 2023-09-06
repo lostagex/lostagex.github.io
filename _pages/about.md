@@ -1,4 +1,4 @@
-a---
+---
 permalink: /
 title: "基本情况"
 excerpt: "About me"
