@@ -22,8 +22,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>曹磊,王珺瑶,朱俊杰,徐昇. 基于深度学习技术的高分辨率遥感图像的车流量统计,江苏大学学报(自然科学版), SCD&北大核心，录用 </li>
-<li>Lei Cao, Zirui Shen, Sheng Xu. Efficient Forest Fire Detection Based on An Improved YOLO Model, Submitted</li>
+<li>曹磊,王珺瑶,朱俊杰,徐昇. 基于深度学习技术的高分辨率遥感图像的车流量统计,江苏大学学报(自然科学版), 2023. SCD&北大核心</li>
 </ol>
 </td>
 </tr>

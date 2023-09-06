@@ -24,8 +24,6 @@ venue: '硕士生'
 <ol class="level_1">
 <li> Li Xin, Xu Sheng(*). Individual Tree Modeling based on Circular Truncated Cones from LiDAR Point Clouds, IEEE Geoscience and Remote Sensing Letters, 2022. (SCI 2 区)</li>
 
-<li>  Li Xin, Xuan Zhou, Xu Sheng(*). Three Dimensional Tree Modeling Based on the Skeleton Path Optimization and Geometrical Cones, International Journal of Simulation and Process Modelling, 2022, Submitted. (EI)</li>
-
 </ol>
 </td>
 </tr>
@@ -43,7 +41,7 @@ venue: '硕士生'
 <ol class="level_1">
 <li> 2021级, 专硕, 电子信息, 一等学业奖学金, 金额：12000 </li>
 <li> 2022年江苏省“互联网+”与智能农业会议, 优秀论文一等奖&最佳论文</li>
-<li> 2023年江苏省研究生科研与实践创新计划项目，主持人</li>
+<li> 李欣, 多模态数据融合下点云树木分割及空间结构建模研究, 江苏省研究生科研与实践创新计划项目, NO.SJCX23_0320, 2023, 1.5万</li>
 </ol>
 </td>
 </tr>

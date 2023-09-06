@@ -38,7 +38,9 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li>  </li>
+<li> 
+江苏省研究生数学建模科研创新实践大赛, 二等奖, 2023.
+</li>
 </ol>
 </td>
 </tr>
