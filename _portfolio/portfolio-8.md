@@ -9,8 +9,10 @@ venue: '硕士生'
 ---
 <table border="0">
 <tr>
- <td></td>
-
+<td> <img src='/images/chiyue.jpeg' height="500" width="408">  </td>
+ <td>
+Yue Chi obtained a Bachelor's degree in Landscape Architecture from Anhui Science and Technology University in Bengbu, Anhui in 2023. Now, she is pursuing a master's degree at the College of Information Technology in Nanjing Forestry University. Her research interest is related to the deep learning work in forest.
+</td>
 </tr>
 
 <tr>
