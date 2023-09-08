@@ -9,7 +9,10 @@ venue: '硕士生'
 ---
 <table border="0">
 <tr>
- <td></td>
+  <td> <img src='/images/chenxi.jpeg' height="500" width="408">  </td>
+ <td>Chenxi Wang received his Bachelor's degree in Software engineering from Jiangsu Ocean University in 2021. In the four years of undergraduate study, he won three first-class scholarships and was awarded the honorary title of "Outstanding Graduate". He is currently pursuing a master's degree in the School of Information Science and Technology at Nanjing Forestry University. His research interests cover remote sensing image and shadow detection.
+</td>
+
 
 </tr>
 
