@@ -8,9 +8,7 @@ venue: '指导本科生发表论文'
 
 
 ---
-1. Tianyi Xie, Wen Han, Sheng Xu (*). OYOLO: An Optimized YOLO Method for Complex Objects in Remote Sensing Image Detection, IEEE Geoscience and Remote Sensing Letters, 2023, doi: 10.1109/LGRS.2023.3312168. (本科生大创项目, SCI 2 区)
-
-1. Xie, Tianyi, Wen Han, and Sheng Xu(*). YOLO-RS: A More Accurate and Faster Object Detection Method for Remote Sensing Images. Remote Sensing, 2023, 15, no. 15: 3863. https://doi.org/10.3390/rs15153863. (本科生大创项目, SCI  2 区)
+1. Tianyi Xie, Wen Han, and Sheng Xu(*). YOLO-RS: A More Accurate and Faster Object Detection Method for Remote Sensing Images. Remote Sensing, 2023, 15, no. 15: 3863.(本科生大创项目, SCI  2 区)
 
 
 1. Ling Xing, Hongyu Qu, Sheng Xu (*) and Yao Tian. CLEGAN: Toward Low-Light Image Enhancement for UAVs via Self-Similarity Exploitation. IEEE Transactions on Geoscience and Remote Sensing, vol. 61, pp. 1-14, 2023, Art no. 5610714, doi: 10.1109/TGRS.2023.3279826.(本科生大创项目, SCI TOP 1 区)
