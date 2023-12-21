@@ -21,6 +21,7 @@ redirect_from:
 1. 南京计算机学会理事 (2022-2027)
 1. IEEE Membership
 1. IEEE Geoscience and Remote Sensing Society Membership
+1. Panoptic Segmentation of Tree Scenes from Mobile LiDAR Data, 2023 - 2024, FOREST, Leading Guest Editor.
 
 
 评审专家
