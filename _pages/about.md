@@ -18,9 +18,19 @@ redirect_from:
 学术兼职
 ======
 1. 中国计算机学会 (CCF)会员, NO:C5506M
-2. 南京计算机学会理事 (2022-2027)
-2. IEEE Membership
-3. IEEE Geoscience and Remote Sensing Society Membership
+1. 南京计算机学会理事 (2022-2027)
+1. IEEE Membership
+1. IEEE Geoscience and Remote Sensing Society Membership
+
+
+评审专家
+======
+1. 中国知网CNKI (位论文评审、优秀学位论文评审、优秀会议论文评审、科研成果评审及人事评审) 
+1. 南京市科学技术协会 
+1. 国家建设高水平大学公派研究生项目
+1. 教育部学位中心(学位论文)
+1. 国研中心(学位论文)
+
 
 
 招生情况
@@ -41,9 +51,11 @@ redirect_from:
 
 其他内容
 ======
+1. 2020中国激光雷达青年科技奖(提名(5/21))
 1. 南京林业大学2021年度考核--优秀
 1. 南京林业大学2023届毕业设计--优秀指导老师 
 1. 2023年江苏省研究生数学建模科研创新实践大赛--优秀指导教师
+
 
 
 联系方式
