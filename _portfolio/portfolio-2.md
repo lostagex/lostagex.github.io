@@ -43,6 +43,9 @@ venue: '硕士生'
 <li> 
 中国多媒体大会ChinaMM2023, 云南-昆明, 08.01-08.04, POSTER.
 </li>
+<li> 
+16th International Conference on Pattern Recognition and Information Processing, Minsk Belarus, 2023.10.17-10.19, ORAL (MDPI Universe 2023 Travel Grant 资助)
+</li>
 </ol>
 </td>
 </tr>
