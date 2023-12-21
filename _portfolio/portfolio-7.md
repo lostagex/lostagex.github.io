@@ -39,7 +39,9 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li>  </li>
+<li> 
+2023年，第二十届中国研究生数学建模三等奖
+ </li>
 </ol>
 </td>
 </tr>
