@@ -17,7 +17,7 @@ redirect_from:
 
 学术兼职
 ======
-1. 中国计算机学会 (CCF)会员
+1. 中国计算机学会 (CCF)会员, NO:C5506M
 2. 南京计算机学会理事 (2022-2027)
 2. IEEE Membership
 3. IEEE Geoscience and Remote Sensing Society Membership
