@@ -26,11 +26,11 @@ redirect_from:
 
 评审专家
 ======
-1. 中国知网CNKI (位论文评审、优秀学位论文评审、优秀会议论文评审、科研成果评审及人事评审) 
+1. 中国知网CNKI  
 1. 南京市科学技术协会 
 1. 国家建设高水平大学公派研究生项目
-1. 教育部学位中心(学位论文)
-1. 国研中心(学位论文)
+1. 教育部学位中心
+1. 国研中心
 
 
 
@@ -43,12 +43,13 @@ redirect_from:
 
 主讲课程
 ======
-1. 数据库原理与应用（本科生, 第四学期）
-1. 计算思维（本科生, 第五学期）
-1. 计算机视觉（研究生, 第二学期）
-1. 科技英语 （本科生, 第五学期）
-1. Computer Vision（International Students）
-1. Machine Learning（International Students）
+1. 数据库原理与应用（本科生, 第四学期，2019-至今）
+1. 计算思维（本科生, 第五学期，2019-2021）
+1. 计算机视觉（研究生, 第二学期，2020-至今）
+1. 科技英语 （本科生, 第五学期，2019-至今）
+1. Computer Vision（International Students，2021-至今）
+1. Machine Learning（International Students，2022-2023）
+1. Computer Graphics (International Students，2024-至今）
 
 其他内容
 ======
