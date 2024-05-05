@@ -17,10 +17,12 @@ redirect_from:
 
 学术兼职
 ======
-1. 中国计算机学会 (CCF)会员, NO:C5506M
+1. 中国计算机学会 (CCF)会员
 1. 南京计算机学会理事 (2022-2027)
 1. IEEE Membership
 1. IEEE Geoscience and Remote Sensing Society Membership
+2. 中国激光雷达专委会成员
+3. 国际数字地球协会会员
 1. Panoptic Segmentation of Tree Scenes from Mobile LiDAR Data, 2023 - 2024, FOREST, Leading Guest Editor.
 
 
