@@ -23,7 +23,9 @@ venue: '硕士生'
 <td colspan="2">论文发表：
 <ol class="level_1">
 <li> Li Xin, Xu Sheng(*). Individual Tree Modeling based on Circular Truncated Cones from LiDAR Point Clouds, IEEE Geoscience and Remote Sensing Letters, 2022. (SCI 2 区)</li>
-
+<li> Xu Sheng, Xin Li, Jiayan Yun and Shanshan Xu(*). "An Effectively Dynamic Path Optimization Approach for the Tree Skeleton Extraction from Portable Laser Scanning Point Clouds." in Remote Sensing. vol. 14(1), pp. 94, 2022, doi: 10.3390/rs14010094.</li>
+<li> Xu Sheng, Li Xin, Yang Hongxin, and Xu Shanshan(*). "R-ProjNet: an optimal rotated-projection neural network for wood segmentation from point clouds." Remote Sensing Letters. vol. 14(1), pp.60-69, 2023, doi: 10.1080/2150704X.2022.2163203.</li>
+<li>Li Xin, Xuan Zhou, Xu Sheng(*). Three-Dimensional Tree Modeling Based on the Skeleton Path Optimization and Geometrical Cones, International Journal of Interactive Multimedia and Artificial Intelligence, 2024.06, Accepted.</li>
 </ol>
 </td>
 </tr>
@@ -32,6 +34,7 @@ venue: '硕士生'
 <td colspan="2">软件授权：
 <ol class="level_1">
 <li> 李欣, 徐昇. 一种遥感图像处理用显示装置, 公告号: CN216345257U, 2022.04.19. </li>
+<li> 徐昇, 李欣, 夏少波, 陈珠琳. 一种基于激光点云和图像信息的单木骨架提取方法及系统, 2023.12, 专利号:CN117710601A, 已授权 (来源：科技部2030)</li>
 </ol>
 </td>
 </tr>
