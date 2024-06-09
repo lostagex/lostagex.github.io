@@ -22,7 +22,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li> Li Xin, Xu Sheng(*). Individual Tree Modeling based on Circular Truncated Cones from LiDAR Point Clouds, IEEE Geoscience and Remote Sensing Letters, 2022. (SCI 2 区)</li>
+<li> Li Xin, Xu Sheng(*). Individual Tree Modeling based on Circular Truncated Cones from LiDAR Point Clouds, IEEE Geoscience and Remote Sensing Letters, 2022.</li>
 <li> Xu Sheng, Xin Li, Jiayan Yun and Shanshan Xu(*). "An Effectively Dynamic Path Optimization Approach for the Tree Skeleton Extraction from Portable Laser Scanning Point Clouds." in Remote Sensing. vol. 14(1), pp. 94, 2022, doi: 10.3390/rs14010094.</li>
 <li> Xu Sheng, Li Xin, Yang Hongxin, and Xu Shanshan(*). "R-ProjNet: an optimal rotated-projection neural network for wood segmentation from point clouds." Remote Sensing Letters. vol. 14(1), pp.60-69, 2023, doi: 10.1080/2150704X.2022.2163203.</li>
 <li>Li Xin, Xuan Zhou, Xu Sheng(*). Three-Dimensional Tree Modeling Based on the Skeleton Path Optimization and Geometrical Cones, International Journal of Interactive Multimedia and Artificial Intelligence, 2024.06, Accepted.</li>
