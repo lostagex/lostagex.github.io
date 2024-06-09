@@ -1,6 +1,6 @@
 ---
 title: "刘万杰 "
-excerpt: "2022.09入学； 专业方向：电子信息"
+excerpt: "2022.09入学； 专业方向：电子信息, 邮箱：liuwanjie@njfu.edu.cn"
 collection: 硕士生
 date: 2022-09-01
 venue: '硕士生'
