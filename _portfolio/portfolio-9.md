@@ -1,6 +1,6 @@
 ---
 title: "王晨曦"
-excerpt: "2023.09入学； 专业方向：电子信息；邮箱："
+excerpt: "2023.09入学； 专业方向：电子信息；邮箱：wangchenxi@njfu.edu.cn"
 collection: 硕士生
 date: 2023-09-01
 venue: '硕士生'
