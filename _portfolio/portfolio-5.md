@@ -31,7 +31,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">软件授权：
 <ol class="level_1">
-<li> 曹磊, 徐昇. 一种可调式遥感图像分析用工作台, 公告号: CN216265884U, 2022.04. </li>
+<li> 曹磊, 徐昇. 一种可调式遥感图像分析用工作台, 公告号: CN216265884U, 实用新型专利, 已授权, 2022.04. </li>
 </ol>
 </td>
 </tr>
@@ -42,6 +42,8 @@ venue: '硕士生'
 <li> 2021级，专硕，电子信息，二等学业奖学金，金额：8000 </li>
 <li> GitHub: https://github.com/xiaoaleiBLUE </li>
 <li> CSDN: https://blog.csdn.net/m0_60890175?type=blog </li>
+<li>  2024.06 毕业，题目：基于深度卷积网络的车辆检测和跟踪算法研究</li>
+<li>  就业：江苏 </li>
 </ol>
 </td>
 </tr>
