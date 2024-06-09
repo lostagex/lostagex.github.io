@@ -22,7 +22,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Zirui Shen, Xu Sheng (*). DS-SwinUNet: Redesigning Skip Connection with Double Scale Attention for Land Cover Semantic Segmentation. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.06, Major Revision. </li>
 </ol>
 </td>
 </tr>
