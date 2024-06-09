@@ -22,7 +22,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Wanjie Liu, Xu Sheng (*). CF-YOLO: A Capable Forest Fire Identification Algorithm Founded on YOLOv7 Improvement. Signal, Image and Video Processing, 2024.06, https://doi.org/10.1007/s11760-024-03288-w. </li>
 </ol>
 </td>
 </tr>
