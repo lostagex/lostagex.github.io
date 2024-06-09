@@ -23,7 +23,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li> Xu Sheng, Zhou Xuan, Ye Weidu and Ye Qiaolin(*). "Classification of 3D Point Clouds By A New Augmentation Convolutional Neural Network." IEEE Geoscience and Remote Sensing Letters, vol. xx, pp. 1-5, 2022, doi: 10.1109/LGRS.2022.3141073. </li>
+<li> Xu Sheng, Zhou Xuan, Ye Weidu and Ye Qiaolin(*). "Classification of 3D Point Clouds By A New Augmentation Convolutional Neural Network." IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, doi: 10.1109/LGRS.2022.3141073. </li>
 </ol>
 </td>
 </tr>
