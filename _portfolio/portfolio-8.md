@@ -1,6 +1,6 @@
 ---
 title: "池悦"
-excerpt: "2023.09入学； 专业方向：计算机科学与技术；邮箱："
+excerpt: "2023.09入学； 专业方向：计算机科学与技术；邮箱：chiyue@njfu.edu.cn"
 collection: 硕士生
 date: 2023-09-01
 venue: '硕士生'
