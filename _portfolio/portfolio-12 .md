@@ -9,7 +9,7 @@ venue: '硕士生'
 ---
 <table border="0">
 <tr>
-  <td> <img src='/images/YYH.jpeg' height="500" width="408">  </td>
+  <td> <img src='/images/YYH.jpg' height="500" width="408">  </td>
  <td>Yuan Yinghui obtained a Bachelor's degree in Data Science and Big Data Technology from Changjiang Normal University in 2024. In the four years of undergraduate study, she received two National Inspirational Scholarships and six academic scholarships. She is currently pursuing a master's degree in Information Science and Technology at Nanjing Forestry University. Her research interests include remote sensing images and point cloud data.
 </td>
 
