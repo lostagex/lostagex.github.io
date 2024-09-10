@@ -8,7 +8,7 @@ venue: '指导本科生发表论文'
 
 
 ---
-1. Boyong Du, Li Wang, Sheng Xu*, Distraction-aware Edge Enhancement for Shadow Detection in Remote Sensing Images, IEEE Geoscience and Remote Sensing Letters, 2024.06, Major Revision. (省级重点本科生大创项目)
+1. Boyong Du, Li Wang, Sheng Xu*, Distraction-Aware Edge Enhancement for Shadow Detection in Remote Sensing Images,IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, Art no. 2503705, doi: 10.1109/LGRS.2024.3415637.(省级重点本科生大创项目)
 
 1. Taige Luo, Wei Gao, Alexei Belotserkovsky, Alexander Nedzved, Weijie Deng, Qiaolin Ye, Liyong Fu, Qiao Chen, Wenjun Ma, Sheng Xu (*), VrsNet - density map prediction network for individual tree detection and counting from UAV images, International Journal of Applied Earth Observation and Geoinformation, 2024(131), 103923, https://doi.org/10.1016/j.jag.2024.103923. (中科院外协课题)
 
