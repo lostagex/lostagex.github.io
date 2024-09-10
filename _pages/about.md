@@ -24,6 +24,7 @@ redirect_from:
 2. 中国激光雷达专委会成员
 3. 国际数字地球协会会员
 1. Panoptic Segmentation of Tree Scenes from Mobile LiDAR Data, 2023 - 2024, FOREST, Leading Guest Editor.
+2. 江苏省计算机学会会员代表（2024-）
 
 
 评审专家
