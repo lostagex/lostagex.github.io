@@ -8,6 +8,8 @@ venue: '作为合作作者发表的论文'
 
 
 ---
+1. Ye, Weidu, Lu Zhao, Jian Zhou, Sheng Xu, and Fu Xiao. "Energy-Efficient Flight Scheduling and Trajectory Optimization in UAV-Aided Edge Computing Networks." IEEE Transactions on Network Science and Engineering (2024).
+
 1. S. Xia, S. Nie, P. Wang, D. Chen, S. Xu and C. Wang, "A Gap-Based Method for LiDAR Point Cloud Division," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3063290.
 
 1. S. Xia, S. Xu, R. Wang, J. Li and G. Wang, "Building Instance Mapping From ALS Point Clouds Aided by Polygonal Maps," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2021.3087159.
