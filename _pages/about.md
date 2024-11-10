@@ -21,7 +21,7 @@ redirect_from:
 1. 南京计算机学会理事 (2022-2027)
 1. IEEE Membership
 1. IEEE Geoscience and Remote Sensing Society Membership
-2. 中国激光雷达专业委员会委员
+2. 中国激光雷达专业委员会委员 （2024-2028）
 3. 国际数字地球协会会员
 1. Panoptic Segmentation of Tree Scenes from Mobile LiDAR Data, 2023 - 2024, FOREST, Leading Guest Editor.
 2. 江苏省计算机学会会员代表（2024-）
@@ -29,7 +29,6 @@ redirect_from:
 
 评审专家
 ======
-1. 中国知网CNKI  
 1. 南京市科学技术协会 
 1. 国家建设高水平大学公派研究生项目
 1. 教育部学位中心
@@ -56,6 +55,7 @@ redirect_from:
 
 其他内容
 ======
+1. 南京林业大学2023年度考核--优秀
 1. 南京林业大学2021年度考核--优秀
 1. 南京林业大学2023届毕业设计--优秀指导老师 
 1. 2023年江苏省研究生数学建模科研创新实践大赛--优秀指导教师
