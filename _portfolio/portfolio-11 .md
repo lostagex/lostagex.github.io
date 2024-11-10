@@ -39,7 +39,9 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li>  </li>
+<li> 
+谢宇航, Treegroup: 一种融合同步聚类的单木点云实例分割网络，中国激光雷达大会，广西桂林，2024.11.01-04, ORAL
+</li>
 </ol>
 </td>
 </tr>
