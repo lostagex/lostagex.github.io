@@ -43,7 +43,7 @@ venue: '硕士生'
 <li> GitHub: https://github.com/xiaoaleiBLUE </li>
 <li> CSDN: https://blog.csdn.net/m0_60890175?type=blog </li>
 <li>  2024.06 毕业，题目：基于深度卷积网络的车辆检测和跟踪算法研究</li>
-<li>  就业：江苏 </li>
+<li>  就业：江苏 上市IT公司 </li>
 </ol>
 </td>
 </tr>
