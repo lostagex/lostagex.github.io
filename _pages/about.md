@@ -70,4 +70,4 @@ redirect_from:
 
 访问信息
 ------
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5m78af7xipq&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=times_new_roman&amp;l=33" async="async"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=MhqpY4o3HaiJXTcTR4ELSQeRD51LZv6LuIngfAmQrTU"</script>
