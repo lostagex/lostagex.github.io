@@ -70,4 +70,4 @@ redirect_from:
 
 访问信息
 ------
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=MhqpY4o3HaiJXTcTR4ELSQeRD51LZv6LuIngfAmQrTU"</script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=MhqpY4o3HaiJXTcTR4ELSQeRD51LZv6LuIngfAmQrTU"></script>
