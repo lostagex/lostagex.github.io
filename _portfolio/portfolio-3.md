@@ -23,7 +23,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Xu Sheng, Zhou Xuan, Ye Weidu and Ye Qiaolin(*). "Classification of 3D Point Clouds By A New Augmentation Convolutional Neural Network." IEEE Geoscience and Remote Sensing Letters, vol. 19, pp. 1-5, 2022, doi: 10.1109/LGRS.2022.3141073. </li>
 </ol>
 </td>
 </tr>
@@ -31,7 +31,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">软件授权：
 <ol class="level_1">
-<li> 周璇, 徐昇. 一种遥感图像并行处理分类用数据采集终端, 公告号: CN216307381U, 2022.04.15. </li>
+<li> 周璇, 徐昇. 一种遥感图像并行处理分类用数据采集终端, 公告号: CN216307381U, 实用新型专利, 已授权, 2022.04.15. </li>
 </ol>
 </td>
 </tr>
@@ -41,6 +41,8 @@ venue: '硕士生'
 <ol class="level_1">
 <li>  2021级，学硕，软件工程，一等学业奖学金，金额：12000  </li>
 <li>  2022年，第十九届中国研究生数学建模三等奖</li>
+<li>  2024.06 毕业，题目：基于图像和点云融合的两阶段三维目标检测算法</li>
+<li>  就业： 江苏 事业编 </li>
 </ol>
 </td>
 </tr>

@@ -1,6 +1,6 @@
 ---
 title: "池悦"
-excerpt: "2023.09入学； 专业方向：计算机科学与技术；邮箱："
+excerpt: "2023.09入学； 专业方向：计算机科学与技术；邮箱：chiyue@njfu.edu.cn"
 collection: 硕士生
 date: 2023-09-01
 venue: '硕士生'
@@ -23,7 +23,9 @@ Yue Chi obtained a Bachelor's degree in Landscape Architecture from Anhui Scienc
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li>  
+Chi, Yue, Chenxi Wang, Zhulin Chen, and Sheng Xu. 2024. "TCSNet: A New Individual Tree Crown Segmentation Network from Unmanned Aerial Vehicle Images" Forests 15, no. 10: 1814. https://doi.org/10.3390/f15101814
+</li>
 </ol>
 </td>
 </tr>

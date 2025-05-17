@@ -22,7 +22,8 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Zirui Shen, Xu Sheng (*). DS-SwinUNet: Redesigning Skip Connection with Double Scale Attention for Land Cover Semantic Segmentation. Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2024.06, Accepted. </li>
+<li> ZiRui Shen, Xin Li, Sheng Xu (*). RMNET: A Residual and Multi-scale Feature Fusion Network For High-resolution Image Semantic Segmentation. Proceedings of the 16th International Conference, October 17–19, 2023, Minsk, Belarus,pp. 101–106. </li>
 </ol>
 </td>
 </tr>
@@ -38,11 +39,13 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li> 
-江苏省研究生数学建模科研创新实践大赛, 二等奖, 2023.
-</li>
+<li> 江苏省研究生数学建模科研创新实践大赛, 二等奖, 2023.</li>
+<li> 2023年，第二十届中国研究生数学建模二等奖</li>
 <li> 
 中国多媒体大会ChinaMM2023, 云南-昆明, 08.01-08.04, POSTER.
+</li>
+<li> 
+16th International Conference on Pattern Recognition and Information Processing, Minsk Belarus, 2023.10.17-10.19, ORAL (MDPI Universe 2023 Travel Grant 资助)
 </li>
 </ol>
 </td>

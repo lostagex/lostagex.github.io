@@ -1,6 +1,6 @@
 ---
 title: "刘万杰 "
-excerpt: "2022.09入学； 专业方向：电子信息"
+excerpt: "2022.09入学； 专业方向：电子信息, 邮箱：liuwanjie@njfu.edu.cn"
 collection: 硕士生
 date: 2022-09-01
 venue: '硕士生'
@@ -22,7 +22,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Wanjie Liu, Xu Sheng (*). CF-YOLO: A Capable Forest Fire Identification Algorithm Founded on YOLOv7 Improvement. Signal, Image and Video Processing, 2024.06, https://doi.org/10.1007/s11760-024-03288-w. </li>
 </ol>
 </td>
 </tr>
@@ -38,9 +38,8 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li>  
-江苏省研究生数学建模科研创新实践大赛, 二等奖(一等奖提名), 2023.
-</li>
+<li> 江苏省研究生数学建模科研创新实践大赛, 二等奖(一等奖提名), 2023. </li>
+<li>  2023年，第二十届中国研究生数学建模二等奖 </li>
 </ol>
 </td>
 </tr>
