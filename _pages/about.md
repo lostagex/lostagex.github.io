@@ -49,9 +49,9 @@ redirect_from:
 1. 计算思维（本科生, 第五学期，2019-2021）
 1. 科技英语 （本科生, 第五学期，2019-至今）
 1. 计算机视觉（研究生, 第二学期，2020-至今）
-1. Computer Vision（International Students，2021-至今）
-1. Machine Learning（International Students，2022-2023）
-1. Computer Graphics (International Students，2024-2025）
+1. Computer Vision（International Graduate Students，2021-至今）
+1. Machine Learning（International Graduate Students，2022-2023）
+1. Computer Graphics (International Graduate Students，2024-2025）
 
 其他内容
 ======
