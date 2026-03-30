@@ -41,6 +41,8 @@ SOFT COMPUTING  Volume: ‏ 20   Issue: ‏ 11   Special Issue: ‏ SI   Pages: 
 1. Boundary detection and sample reduction for one-class Support Vector Machines[J]
 NEUROCOMPUTING  Volume: ‏ 123   Special Issue: ‏ SI   Pages: ‏ 166-173   Published: ‏ JAN 10 2014
 
+1. 基于点云的轨道车辆侧墙板平整度检测算法[J].激光与光电子学进展,2025,62(12):184-194.
+
 1. 地质图中地质层的精确分割方法[J].计算机科学,2013,40(01):277-281+297.
 
 1. 基于卷积神经网络的木材缺陷识别[J].山东大学学报(工学版),2013,43(02):23-28.
