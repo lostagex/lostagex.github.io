@@ -9,7 +9,7 @@ venue: '作为合作作者发表的论文'
 
 ---
 
-1. Zhulin Chen*, Huimin Zou, Xuefeng Wang, Naijing Zhang, Guofeng Tao, Jie Li, Shijiao Qiao, Sheng Xu*. Estimating Leaf Area Index and Leaf Nitrogen Content for Individual Populus Tree Using UAV Hyperspectral Data With Dual-Branch Deep Learning Architecture. IEEE Transactions on Geoscience and Remote Sensing, 2026, vol. 64, pp. 1–18, Art no. 4404718. doi: 10.1109/TGRS.2026.3668265.
+1. Zhulin Chen（共通）, Huimin Zou, Xuefeng Wang, Naijing Zhang, Guofeng Tao, Jie Li, Shijiao Qiao, Sheng Xu（共通）. Estimating Leaf Area Index and Leaf Nitrogen Content for Individual Populus Tree Using UAV Hyperspectral Data With Dual-Branch Deep Learning Architecture. IEEE Transactions on Geoscience and Remote Sensing, 2026, vol. 64, pp. 1–18, Art no. 4404718. doi: 10.1109/TGRS.2026.3668265.
 
 1. Ye, Weidu, Lu Zhao, Jian Zhou, Sheng Xu, and Fu Xiao. "Energy-Efficient Flight Scheduling and Trajectory Optimization in UAV-Aided Edge Computing Networks." IEEE Transactions on Network Science and Engineering (2024).
 
