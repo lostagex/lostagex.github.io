@@ -23,7 +23,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Zhaowei Shao, Kunyu He, Baohua Yuan, and Sheng Xu (*). Enhanced YOLOv8 Framework for Precision Vehicle Detection in High-resolution Remote Sensing Images, Signal, Image and Video Processing, SIViP19, 2025(218), https://doi.org/10.1007/s11760-024-03783-0. </li>
 </ol>
 </td>
 </tr>
