@@ -1,0 +1,47 @@
+---
+title: "肖如鑫"
+excerpt: "2025.09入学； 专业方向：0854电子信息03 计算机技术；邮箱："
+collection: 硕士生
+date: 2025-09-01
+venue: '硕士生'
+
+
+---
+<table border="0">
+<tr>
+  <td> <img src='/images/YYH.JPG' height="500" width="408">  </td>
+ <td> Xiao Ruxin</td>
+
+
+</tr>
+
+<tr>
+<td colspan="2" align="center">--------硕士生期间工作--------
+</td>
+</tr>
+
+<tr>
+<td colspan="2">论文发表：
+<ol class="level_1">
+<li>  </li>
+</ol>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">软件授权：
+<ol class="level_1">
+<li>  </li>
+</ol>
+</td>
+</tr>
+
+<tr>
+<td colspan="2">其他：
+<ol class="level_1">
+<li>  </li>
+</ol>
+</td>
+</tr>
+
+</table>
