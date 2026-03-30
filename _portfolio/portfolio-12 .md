@@ -24,7 +24,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> Yinghui Yuan, Yunfeng Yang, Zhulin Chen, and Sheng Xu (*). TreeSpecViT: Fine-Grained Tree Species Classification from UAV RGB Imagery for Campus-Scale Human–Vegetation Coupling Analysis, Remote Sensing, 2026, 18(6):928. https://doi.org/10.3390/rs18060928. </li>
 </ol>
 </td>
 </tr>
