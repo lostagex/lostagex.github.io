@@ -8,6 +8,9 @@ venue: '作为合作作者发表的论文'
 
 
 ---
+
+1. Zhulin Chen (*), Huimin Zou, Xuefeng Wang, Naijing Zhang, Guofeng Tao, Jie Li, Shijiao Qiao, Sheng Xu(*). Estimating Leaf Area Index and Leaf Nitrogen Content for Individual Populus Tree Using UAV Hyperspectral Data With Dual-Branch Deep Learning Architecture.  IEEE Transactions on Geoscience and Remote Sensing, 2026, vol. 64, pp. 1-18, Art no. 4404718, doi: 10.1109/TGRS.2026.3668265.
+
 1. Ye, Weidu, Lu Zhao, Jian Zhou, Sheng Xu, and Fu Xiao. "Energy-Efficient Flight Scheduling and Trajectory Optimization in UAV-Aided Edge Computing Networks." IEEE Transactions on Network Science and Engineering (2024).
 
 1. S. Xia, S. Nie, P. Wang, D. Chen, S. Xu and C. Wang, "A Gap-Based Method for LiDAR Point Cloud Division," in IEEE Geoscience and Remote Sensing Letters, doi: 10.1109/LGRS.2021.3063290.
