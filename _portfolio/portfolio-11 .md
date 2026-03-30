@@ -23,7 +23,10 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li> 
+
+
+</li>
 </ol>
 </td>
 </tr>
@@ -40,7 +43,8 @@ venue: '硕士生'
 <td colspan="2">其他：
 <ol class="level_1">
 <li> 
-谢宇航, Treegroup: 一种融合同步聚类的单木点云实例分割网络，中国激光雷达大会，广西桂林，2024.11.01-04, ORAL
+1. 谢宇航, Treegroup: 一种融合同步聚类的单木点云实例分割网络，中国激光雷达大会，广西桂林，2024.11.01-04, ORAL
+1. Xie Yuhang, Cao Zhenghao, Xu Sheng. TCS: an Algorithm for Focusing on the Segmentation of Tree Crowns and Trunks in Forest Point Clouds, Pattern Recognition and Information Processing (PRIP2025): Proceedings of the 17th International Conference, September 16-18, 2025, Minsk, Belarus / UIIP NASB, 2025:306-309.
 </li>
 </ol>
 </td>
