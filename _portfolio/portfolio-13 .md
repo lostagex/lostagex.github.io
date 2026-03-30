@@ -9,7 +9,7 @@ venue: '硕士生'
 ---
 <table border="0">
 <tr>
-  <td> <img src='/images/Zhenghao.jpeg' height="500" width="408">  </td>
+  <td> <img src='/images/zhenghao.jpeg' height="500" width="408">  </td>
  <td>Cao Zhenghao
 </td>
 
