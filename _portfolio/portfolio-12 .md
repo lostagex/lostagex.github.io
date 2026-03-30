@@ -1,6 +1,6 @@
 ---
 title: "袁莹徽"
-excerpt: "2024.09入学； 专业方向：0854电子信息03 计算机技术；邮箱："
+excerpt: "2024.09入学； 专业方向：0854电子信息03 计算机技术；邮箱：yuanyinghui@njfu.edu.cn"
 collection: 硕士生
 date: 2024-09-01
 venue: '硕士生'
