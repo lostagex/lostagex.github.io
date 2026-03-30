@@ -24,7 +24,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">论文发表：
 <ol class="level_1">
-<li>  </li>
+<li>  Chenxi Wang, Yue Chi, Sheng Xu (*). A Novel Variational Feature Decomposition Framework for Joint Shadow Detection and Removal in Complex Visual Scenes, Engineering Applications of Artificial Intelligence, 2026,167(1):113689, https://doi.org/ 10.1016/ j.engappai. 2025. 113689. </li>
 </ol>
 </td>
 </tr>
