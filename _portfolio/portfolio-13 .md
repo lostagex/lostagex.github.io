@@ -10,7 +10,7 @@ venue: '硕士生'
 <table border="0">
 <tr>
   <td> <img src='/images/zhenghao.jpeg' height="500" width="408">  </td>
- <td>Cao Zhenghao </td>
+ <td>Cao Zhenghao obtained a Bachelor's degree in Computer Science and Technology from Southeast University  Chengxian College in 2024. In the four years of undergraduate study, he received two first-class Scholarships. He is currently pursuing a master's degree in Information Science and Technology at Nanjing Forestry University. His research interests include remote sensing images and point cloud data </td>
 </tr>
 
 <tr>
