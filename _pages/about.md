@@ -12,7 +12,7 @@ redirect_from:
 
 研究兴趣
 ======
-研究方向：计算机视觉（目标分割、检测与识别），三维空间信息处理，点云数据分析，遥感图像处理，植被制图等
+研究方向：计算机视觉（目标分割、检测与识别），空间信息感知，点云数据分析，遥感图像处理，植被制图等
 
 
 学术兼职
@@ -23,6 +23,7 @@ redirect_from:
 1. IEEE Geoscience and Remote Sensing Society Membership
 2. 中国激光雷达专业委员会委员 （2024-2028）
 3. 国际数字地球协会会员
+4. Deep Learning-Based Interpretation and Processing of Remote Sensing Images, 2025 - 2026, Remote Sensing, Leading Guest Editor.
 1. Panoptic Segmentation of Tree Scenes from Mobile LiDAR Data, 2023 - 2024, FOREST, Leading Guest Editor.
 2. 江苏省计算机学会会员代表（2024-至今）
 
@@ -58,7 +59,8 @@ redirect_from:
 1. 南京林业大学2025年度考核--优秀
 1. 南京林业大学2023年度考核--优秀
 1. 南京林业大学2021年度考核--优秀
-2. 南京林业大学2024届毕业设计--优秀指导老师 
+2. 南京林业大学2025届毕业设计--优秀指导老师 
+3. 南京林业大学2024届毕业设计--优秀指导老师 
 1. 南京林业大学2023届毕业设计--优秀指导老师 
 1. 2023年江苏省研究生数学建模科研创新实践大赛--优秀指导教师
 
