@@ -37,7 +37,7 @@ venue: '硕士生'
 <tr>
 <td colspan="2">其他：
 <ol class="level_1">
-<li>  </li>
+<li> 曹正昊, 基于多尺度特征融合和自适应区域生长的改进TreeSeg算法，第九届中国激光雷达大会，湖北武汉，2025.09.27-28, ORAL </li>
 </ol>
 </td>
 </tr>
