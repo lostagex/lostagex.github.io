@@ -17,15 +17,16 @@ redirect_from:
 
 学术兼职
 ======
-1. 中国计算机学会 (CCF)会员
-1. 南京计算机学会理事 (2022-至今)
-1. IEEE Membership
-1. IEEE Geoscience and Remote Sensing Society Membership
-2. 中国激光雷达专业委员会委员 （2024-2028）
-3. 国际数字地球协会会员
-4. Deep Learning-Based Interpretation and Processing of Remote Sensing Images, 2025 - 2026, Remote Sensing, Leading Guest Editor.
-1. Panoptic Segmentation of Tree Scenes from Mobile LiDAR Data, 2023 - 2024, FOREST, Leading Guest Editor.
-2. 江苏省计算机学会会员代表（2024-至今）
+1. 中国计算机学会 (CCF)会员, NO.C5506M，2020-至今
+1. 南京计算机学会第二届理事 (2022-至今)
+1. 电气与电子工程师学会会员 (IEEE Membership), NO.96113689, 2022-至今
+1. IEEE 地球科学与遥感学会会员(IEEE Geoscience and Remote Sensing Society Membership)
+2. 国际计算机学会会员 (ACM Member), 会员号：5337066, 2025-至今
+3. 第三届中国激光雷达专业委员会委员 （2024-2028）
+4. 国际数字地球协会会员
+5. Lead Guest Editor, Special Issue on Deep Learning-Based Interpretation and Processing of Remote Sensing Images, Remote Sensing (MDPI), 2025–2026
+1. Lead Guest Editor, Special Issue on Panoptic Segmentation of Tree Scenes from Mobile LiDAR Data, FOREST (MDPI) , 2023-2024.
+3. 江苏省计算机学会会员代表（2024-至今）
 
 
 评审专家
