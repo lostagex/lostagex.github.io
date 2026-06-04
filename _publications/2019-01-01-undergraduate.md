@@ -7,6 +7,9 @@ date: 2098-01-01
 venue: '指导本科生发表论文'
 
 ---
+1.Fan, Chenyang and Zhu, Xujie and Luo, Taige and Chen, Zhulin and Xu, Sheng. WaveInst: A Frequency-Domain Enhanced Network for Fine-Grained Thin Tree Trunk Extraction in Forest Scenes, IEEE Transactions on Geoscience and Remote Sensing, vol. 64, pp. 4409718-4409718, 2026, Art no. 4409718, doi: 10.1109/TGRS.2026.3693720.
+
+
 1. Boyong Du, Li Wang, Sheng Xu*, Distraction-Aware Edge Enhancement for Shadow Detection in Remote Sensing Images,IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, Art no. 2503705, doi: 10.1109/LGRS.2024.3415637.(省级重点本科生大创项目)
 
 1. Taige Luo, Wei Gao, Alexei Belotserkovsky, Alexander Nedzved, Weijie Deng, Qiaolin Ye, Liyong Fu, Qiao Chen, Wenjun Ma, Sheng Xu (*), VrsNet - density map prediction network for individual tree detection and counting from UAV images, International Journal of Applied Earth Observation and Geoinformation, 2024(131), 103923, https://doi.org/10.1016/j.jag.2024.103923. (中科院外协课题)
