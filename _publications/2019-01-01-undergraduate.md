@@ -6,7 +6,6 @@ excerpt: '指导论文'
 date: 2098-01-01
 venue: '指导本科生发表论文'
 
-
 ---
 1. Boyong Du, Li Wang, Sheng Xu*, Distraction-Aware Edge Enhancement for Shadow Detection in Remote Sensing Images,IEEE Geoscience and Remote Sensing Letters, vol. 21, pp. 1-5, 2024, Art no. 2503705, doi: 10.1109/LGRS.2024.3415637.(省级重点本科生大创项目)
 
